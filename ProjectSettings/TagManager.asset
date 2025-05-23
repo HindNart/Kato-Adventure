@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  - Stone
+  - HpTxt
+  - LivesTxt
+  - CoinTxt
+  - OrbTxt
+  - HealthPriceTxt
+  - AntidotePriceTxt
+  - PotionImg
+  - PotionTxt
+  - Shop
+  - PowerPriceTxt
+  - DoubleDmgIcon
+  - Gem0
+  - Gem1
+  - Gem2
+  - PausePanel
+  - VirtualCamera
+  - ContinueBtnMenu
+  - WinTitle
+  - WinImg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Wall
+  - Bomb
+  - EnemyFly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1609505275
+    locked: 0
+  - name: Ground
+    uniqueID: 3401032621
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1809810925
+    locked: 0
+  - name: Item
+    uniqueID: 3463027843
+    locked: 0
+  - name: Enemy
+    uniqueID: 3826725399
+    locked: 0
+  - name: Player
+    uniqueID: 2754028593
+    locked: 0
+  - name: FakeGround
+    uniqueID: 3835001469
+    locked: 0
+  - name: UI
+    uniqueID: 2070956287
+    locked: 0

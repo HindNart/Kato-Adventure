@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: d23d6f4da0b7ade4e8fe4abdc146d5e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 24
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f058febb24d981478a359ddcd9386f1
+      internalID: -2000770783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: 0.15, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91239b11e8ab874cbe67b5e72db42fd
+      internalID: -1387705336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 8
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.11, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a66894e1540234181923785f5762bf
+      internalID: 1276108909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 17
+        width: 49
+        height: 33
+      alignment: 9
+      pivot: {x: 0.09735232, y: 0.937151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d7bd7595cf1274aaebda54c409582b
+      internalID: 1749265597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 20
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.1, y: 0.87788653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91013501d461b74f838f63d7864db11
+      internalID: -1639801246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 20
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.09691895, y: 0.8778863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493e4f028697c604cb47a2063516b3b9
+      internalID: 1687847955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_6
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 17
+        width: 49
+        height: 33
+      alignment: 9
+      pivot: {x: 0.09735232, y: 0.93072224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51bf44f44e2bd6478e5e24084b31f0c
+      internalID: -253854131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_7
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 8
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.11517334, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e43be7ef37ff4eb96bd70adbd8b01
+      internalID: 1052213814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_8
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: 0.15, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d16cd358ec376a4e929761481d013bf
+      internalID: 948332782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 0
+        width: 24
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea197d99e7208e47a18fd3522eb48f0
+      internalID: -1776941217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_10
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: 0.835, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ce9c7e9b0790b4a962868a1e205c47
+      internalID: 322482871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_11
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 8
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.88, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8951105b527ec418ed56a53310562d
+      internalID: 634339018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_12
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 17
+        width: 49
+        height: 33
+      alignment: 9
+      pivot: {x: 0.9, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64bba106ba493d469eedc3bbcdc6f06
+      internalID: 1033662864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_13
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 20
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.9, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05095343d0f2318468cade6f7217a1d6
+      internalID: 63121108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_14
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 20
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.9, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1025179d3ce8b74ab963f202fa405bb
+      internalID: -1475718263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_15
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 17
+        width: 49
+        height: 33
+      alignment: 9
+      pivot: {x: 0.9, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227d088975c88f144ad93b1c149b4966
+      internalID: 169852296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_16
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 8
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.89, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5349c8652b1e62e47bf78706159f94c0
+      internalID: -1796125439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trap_suspended_anim_strip_18_17
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: 0.84, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb89fa189d0f8bc44a45338c30f50876
+      internalID: -418017599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trap_suspended_anim_strip_18_0: -2000770783
+      trap_suspended_anim_strip_18_1: -1387705336
+      trap_suspended_anim_strip_18_10: 322482871
+      trap_suspended_anim_strip_18_11: 634339018
+      trap_suspended_anim_strip_18_12: 1033662864
+      trap_suspended_anim_strip_18_13: 63121108
+      trap_suspended_anim_strip_18_14: -1475718263
+      trap_suspended_anim_strip_18_15: 169852296
+      trap_suspended_anim_strip_18_16: -1796125439
+      trap_suspended_anim_strip_18_17: -418017599
+      trap_suspended_anim_strip_18_2: 1276108909
+      trap_suspended_anim_strip_18_3: 1749265597
+      trap_suspended_anim_strip_18_4: -1639801246
+      trap_suspended_anim_strip_18_5: 1687847955
+      trap_suspended_anim_strip_18_6: -253854131
+      trap_suspended_anim_strip_18_7: 1052213814
+      trap_suspended_anim_strip_18_8: 948332782
+      trap_suspended_anim_strip_18_9: -1776941217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
