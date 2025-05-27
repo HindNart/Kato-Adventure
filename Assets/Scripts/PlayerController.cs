@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     private bool isFacingRight = true;
 
     [Header("Movement")]
-    [SerializeField] private float speed = 10.0f;
+    [SerializeField] private float speed = 5.5f;
 
     [Header("Jumping")]
     [SerializeField] private float jumpForce = 10.0f;

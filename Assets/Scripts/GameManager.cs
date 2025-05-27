@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour
     private Player player;
     private int playerCoin = 0;
     private int playerOrb = 0;
-    public int playerLives { get; private set; } = 4;
+    public int playerLives { get; private set; } = 3;
     public bool playerDead = false;
 
     public GameObject doubleDmgIcon;
@@ -400,7 +400,7 @@ public class GameManager : MonoBehaviour
         player.currentHp = PlayerPrefs.GetFloat("PlayerHp", 100f);
         playerCoin = PlayerPrefs.GetInt("PlayerCoin", 0);
         playerOrb = PlayerPrefs.GetInt("PlayerOrb", 0);
-        playerLives = PlayerPrefs.GetInt("PlayerLives", 4);
+        playerLives = PlayerPrefs.GetInt("PlayerLives", 3);
         healthPotionQuantity = PlayerPrefs.GetInt("HealthPotionQuantity", 0);
         powerPotionQuantity = PlayerPrefs.GetInt("PowerPotionQuantity", 0);
         potionQuantities = new int[] { healthPotionQuantity, powerPotionQuantity };
@@ -432,7 +432,7 @@ public class GameManager : MonoBehaviour
 
         playerCoin = 0;
         playerOrb = 0;
-        playerLives = 4;
+        playerLives = 3;
         healthPotionQuantity = 0;
         powerPotionQuantity = 0;
         potionQuantities = new int[2] { healthPotionQuantity, powerPotionQuantity };
@@ -456,7 +456,7 @@ public class GameManager : MonoBehaviour
         player.currentHp = 100f;
         playerCoin = 0;
         playerOrb = 0;
-        playerLives = 4;
+        playerLives = 3;
         healthPotionQuantity = 0;
         powerPotionQuantity = 0;
         potionQuantities = new int[2] { healthPotionQuantity, powerPotionQuantity };
