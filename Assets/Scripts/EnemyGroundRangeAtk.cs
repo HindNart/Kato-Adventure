@@ -25,7 +25,7 @@ public class EnemyGroundRangeAtk : Enemy
 
     private void Fire()
     {
-        GameObject bomb = bombPool.GetObject();
+        GameObject bomb = bombPool.GetObject("bomb");
         bomb.transform.position = firePoint.position;
         bomb.transform.rotation = firePoint.rotation;
 

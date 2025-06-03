@@ -34,6 +34,6 @@ public class Bomb : MonoBehaviour
             hitPlayer.GetComponent<Player>().TakeDamage(5f);
         }
         // Destroy(gameObject, 1f);
-        FindObjectOfType<ObjectPool>().ReturnObject(gameObject, 1f);
+        FindObjectOfType<ObjectPool>().ReturnObject(gameObject, "bomb", 1f);
     }
 }
