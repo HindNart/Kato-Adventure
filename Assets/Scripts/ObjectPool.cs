@@ -61,7 +61,7 @@ public class ObjectPool : MonoBehaviour
         }
     }
 
-    public void ReturnObject(GameObject obj, string tag, float delay = 1f)
+    public void ReturnObject(GameObject obj, string tag, float delay = 0f)
     {
         StartCoroutine(ReturnObjectAfterDelay(obj, tag, delay));
     }
