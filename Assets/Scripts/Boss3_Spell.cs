@@ -11,18 +11,12 @@ public class Boss3_Spell : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            StartCoroutine(ReturnObject());
+            FindObjectOfType<ObjectPool>().ReturnObject(gameObject, "spell", 1f);
         }
         else
         {
-            StartCoroutine(ReturnObject());
+            FindObjectOfType<ObjectPool>().ReturnObject(gameObject, "spell", 1f);
         }
-    }
-
-    private IEnumerator ReturnObject()
-    {
-        yield return new WaitForSeconds(0.5f);
-        FindObjectOfType<ObjectPool>().ReturnObject(gameObject);
     }
 
     private void Attack()

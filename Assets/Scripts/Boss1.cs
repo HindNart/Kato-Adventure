@@ -31,7 +31,7 @@ public class Boss1 : Enemy
 
     private void Fire()
     {
-        GameObject arm = armPool.GetObject();
+        GameObject arm = armPool.GetObject("arm");
         arm.transform.position = firePoint.position;
         arm.transform.rotation = firePoint.rotation;
 

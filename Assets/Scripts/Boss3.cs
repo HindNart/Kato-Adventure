@@ -28,7 +28,7 @@ public class Boss3 : Enemy
 
     private void Cast()
     {
-        GameObject spell = spellPool.GetObject();
+        GameObject spell = spellPool.GetObject("spell");
         spell.transform.position = player.transform.position + new Vector3(0, 1.5f, 0);
         spell.transform.rotation = player.transform.rotation;
     }
